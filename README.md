@@ -1,0 +1,1 @@
+# StickerCamera_test
